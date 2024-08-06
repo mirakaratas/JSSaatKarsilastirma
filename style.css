@@ -1,0 +1,36 @@
+.text1 {
+  position: relative;
+  text-align: center;
+  color: #e98208; 
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 1px;
+}
+
+.text2 {
+  position: relative;
+  text-align: center;
+  color: #e98208; 
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 1px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+img {
+    margin-top: 90px;
+    width: 17%;
+}
+.datetime {
+  font-size: 14px;
+  font-weight:lighter;
+  color: #e98208; 
+  margin-top: 10px;
+}
+.welcome {
+  display: none; 
+}
+.inputForm {
+  text-align: center;
+  margin-top: 50px;}
